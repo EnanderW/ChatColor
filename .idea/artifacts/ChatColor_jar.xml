@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatColor:jar">
+    <output-path>E:/Jars/server/SERVERS/Server b/mods</output-path>
+    <root id="archive" name="ChatColor.jar">
+      <element id="module-output" name="ChatColor" />
+    </root>
+  </artifact>
+</component>

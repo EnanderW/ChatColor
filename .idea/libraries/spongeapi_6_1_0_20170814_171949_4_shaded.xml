@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spongeapi-6.1.0-20170814.171949-4-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libs/spongeapi-6.1.0-20170814.171949-4-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Libs/spongeapi-6.1.0-20170814.171949-4-shaded.jar!/" />
+    </SOURCES>
+  </library>
+</component>
